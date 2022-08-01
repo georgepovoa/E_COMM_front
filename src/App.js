@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Loja from './loja/loja';
+import Loja from './loja/index';
 import { Routes, Route, Link } from "react-router-dom";
 import Carrinho from './loja/carrinho';
 

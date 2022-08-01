@@ -10,9 +10,6 @@ export const Lista_de_paletas = [
     primary_clear: "#eafafc",
     }
 ,
-
-
-
 {
     title: "Segundo teste",
     primary: "#2b2d42",
@@ -74,44 +71,6 @@ export const Lista_de_paletas = [
     class: "monochromatic",
 },
 {
-    title:"Amarelo_pastel_1",
-    primary: "#FEFFBB",
-    secondary: "black",
-    acent1: "#AFB200",
-    primary_shade: '#191A17',
-    primary_clear: "#FFFFEE",
-    class: "monochromatic",
-},
-{
-    title:"Amarelo_pastel_2",
-    primary: "#FEFFBB",
-    secondary: "#14140F",
-    acent1: "#7F805D",
-    primary_shade: '#191A17',
-    primary_clear: "#FFFFF5",
-    class: "monochromatic",
-},
-
-{
-    title:"Amarelo",
-    primary: "#FCFF63",
-    secondary: "#14140F",
-    acent1: "#7F805D",
-    primary_shade: '#191A17',
-    primary_clear: "#FFFFF5",
-    class: "monochromatic",
-},
-{
-    title:"Amarelo",
-    primary: "#FCFF63",
-    secondary: "#141408",
-    acent1: "#656628",
-    primary_shade: '#191A17',
-    primary_clear: "#FFFFEB",
-    class: "monochromatic",
-},
-
-{
     title:"hue0_vermelho",
     primary: "#CC2929",
     secondary: "#FFFCFC",
@@ -132,22 +91,34 @@ export const Lista_de_paletas = [
 },
 
 {
-    title:"hue15_laranja_pastel",
-    primary: "#FFC6B2",
-    secondary: "black",
-    acent1: "#664F47",
-    primary_shade: '#4D3B36',
-    primary_clear: "#FFFDFC",
+    title:"colorhunt_1",
+    primary: "#0F1414",
+    secondary: "#e7f4f4",
+    acent1: "#FF0063",
+    primary_shade: '#0e0f0f',
+    primary_clear: "#FFFFFF",
     class: "monochromatic",
 },
+
 {
-    title:"hue15_laranja_pastel",
-    primary: "#FFC6B2",
-    secondary: "white",
-    acent1: "#664F47",
-    primary_shade: '#4D3B36',
-    primary_clear: "#FFFDFC",
+    title:"colorhunt_2",
+    primary: "#2C3333",
+    secondary: "#E7F6F2",
+    acent1: "#009e60",
+    primary_shade: '#0e0f0f',
+    primary_clear: "#FFFFFF",
     class: "monochromatic",
 },
+
+{
+    title:"black_white",
+    primary: "#010101",
+    secondary: "white",
+    acent1: "#777777",
+    primary_shade: '#010101',
+    primary_clear: "white",
+    class: "monochromatic",
+},
+
 
 ]
