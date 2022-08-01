@@ -94,7 +94,7 @@ export const TextLeftTitleBanner = styled.div`
     margin-left:35% ;
     margin-right: 10%;
     margin-top: 25%;
-    color:white ;
+    color:${props => props.theme.primary_clear} ;
     text-transform: uppercase;
     font-size: 2.5rem;
     font-weight: bold;
@@ -109,7 +109,7 @@ export const TextLeftTitleBanner = styled.div`
 export const TextLeftSubBanner = styled.div`
 
     margin-top: 10%;
-    color:${props => props.theme.primary_clear} ;
+    color:${props => props.theme.secondary} ;
     font-size: 0.9rem;
 `
 export const ButtonBanner = styled.a`

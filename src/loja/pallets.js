@@ -2,11 +2,11 @@ export const Lista_de_paletas = [
 
 {
     title: "Primeiro teste",
-    primary: "#44E5F0",
+    primary: "#2c2c2c",
     secondary: "#FFFFFF",
-    acent1: "#2c2c2c",
+    acent1: "#44E5F0",
     class: "",
-    primary_shade: "#212529",
+    primary_shade: "#0A0F14",
     primary_clear: "#eafafc",
     }
 ,
@@ -53,11 +53,11 @@ export const Lista_de_paletas = [
 ,
  {
     title:"Roxo_mono",
-    primary: "#6E0B52",
+    primary: "#1F0016",
     secondary: "#FFE8F8",
-    acent1: "#1F0016",
-    primary_shade: "#1F0016",
-    primary_clear: "#FFF2FB",
+    acent1: "#6E0B52",
+    primary_shade: "black",
+    primary_clear: "white",
     class: "monochromatic",
 },
 
@@ -119,6 +119,49 @@ export const Lista_de_paletas = [
     primary_clear: "white",
     class: "monochromatic",
 },
+
+{
+    title:"pink",
+    primary: "#24050F",
+    secondary: "white",
+    acent1: "#E65A86",
+    primary_shade: '#F6BDD1',
+    primary_clear: "#F4F4F4",
+    class: "monochromatic",
+},
+
+{
+    title:"blue",
+    primary: "#0E0E52",
+    secondary: "white",
+    acent1: "#449DD1",
+    primary_shade: '#04041A',
+    primary_clear: "#EEF7FB",
+    class: "monochromatic",
+},
+
+{
+    title:"white",
+    primary: "#EEF7FB",
+    secondary: "black",
+    acent1: "#777777",
+    primary_shade: 'black',
+    primary_clear: "#EEF7FB",
+    class: "monochromatic",
+},
+
+{
+    title:"white_0hue",
+    primary: "#F4F5F6",
+    secondary: "black",
+    acent1: "#777777",
+    primary_shade: 'black',
+    primary_clear: "#F4F5F6",
+    class: "monochromatic",
+},
+
+
+
 
 
 ]
