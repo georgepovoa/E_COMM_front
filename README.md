@@ -11,7 +11,7 @@ No lado esquerdo se encontra uma aba com diversas paletas de cores que alteram a
 
 ## Links
 
- - [Projeto em produção](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Projeto em produção(ainda em servidor gratuito)](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Repositório do back-end Express(js)](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Repositório do back-end FastApi(py)](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
